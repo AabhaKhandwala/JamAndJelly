@@ -1,4 +1,25 @@
 .navHeader{
     text-align: center;
     left: 50%;
+   
+}
+
+
+/*color: #ff5c5c ;
+}*/
+
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+nav{
+    background-color: #161e67 ;
+    text-decoration-color:  #ff5c5c ;
+}
+.navbar-text{
+    color:#ff5c5c ;
+}
+
+body{
+    background-color: #161e67;
 }

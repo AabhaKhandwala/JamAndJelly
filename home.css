@@ -1,6 +1,4 @@
-#carouselExampleControls{
-    margin-top: 3%;
-}
+/* navbar styling */
 nav{
     background-color: #161e67;
     font-family: 'Montserrat', sans-serif;
@@ -24,21 +22,12 @@ nav{
     margin-left: 20px;
 }
 
+/* carousel styling */
+
 .container{
     margin-top: 10%;
     margin-bottom: 10%;
     }
-
-.col{
-    font-family: 'Montserrat', sans-serif;
-}
-.col img{
-    border-radius: 10%;
-}
-
-.compName{
-    text-align: center;
-}
 .carousel{
     background-color: #ffacac;
 }
@@ -46,6 +35,10 @@ nav{
     border: solid 3px;
     border-color: #ff5c5c;
     margin: auto;
+}
+
+#carouselExampleControls{
+    margin-top: 3%;
 }
 
 .carousel-control-prev-icon{
@@ -56,6 +49,14 @@ nav{
     background-color: black;
 }
 
+/* best seller area styling */
+.col{
+    font-family: 'Montserrat', sans-serif;
+}
+.col img{
+    border-radius: 10%;
+}
+
 h2{
     margin-top: 30%;
 }
@@ -63,6 +64,8 @@ p{
     font-size: 15px;
     text-align: justify;
 }
+
+/* footer styling */
 footer {
     font-family: 'Montserrat', sans-serif;
     position: fixed;

@@ -1,30 +1,36 @@
 body{
-    background-color: teal;
-}
+    
+    }
 .navHeader{
     text-align: center;
     left: 50%;
    
-}
-
-
-/*color: #ff5c5c ;
-}*/
+    }
 
 .navbar{
     font-family: 'Montserrat', sans-serif;
-    
-}
+   
+    }
+
 nav{
-    background-color: #161e67 ;
-    text-decoration-color:  #ff5c5c ;
-}
-.navbar-text{
-    color:#ff5c5c ;
+    background-color: #161e67;
+    }
+
+.navbar a {
+    color: red;
 }
 
+.container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    }
+
+.col{
+    font-family: 'Montserrat', sans-serif;
+}
 
 footer {
+    font-family: 'Montserrat', sans-serif;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -37,5 +43,12 @@ footer {
 .carousel img {
 
     margin: auto;
+}
 
+.carousel-control-prev-icon{
+    background-color: black;
+}
+
+.carousel-control-next-icon{
+    background-color: black;
 }

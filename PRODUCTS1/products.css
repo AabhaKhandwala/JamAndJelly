@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* background-color: #161e67; */
+}
+
+.card-body {
+    background-color: #161e67;
+    color: #ff5c5c;
+    
+}
+.card {
+    margin: 20px;
+}
+
+.smalloz{
+    color: #ff5c5c;
+}
+
